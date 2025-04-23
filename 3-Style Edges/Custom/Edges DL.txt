@@ -1,0 +1,10 @@
+#separator:tab
+#html:false
+HN	[Uw R': [S', R2]]
+HT	[R S' R': [E', R2]]
+NH	[Uw R: [S', R2]]
+NR	[Lw', S' R S]
+RN	[S' R S, Lw']
+RT	[Uw S R: [S, R2]]
+TH	[R S' R: [E', R2]]
+TR	[Uw S R': [S, R2]]
