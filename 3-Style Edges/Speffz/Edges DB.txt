@@ -1,12 +1,12 @@
 #separator:tab
 #html:false
-GH	[L: [L, U M U']]
+GH	[S': [D', R' E' R]]
 GN	[M U' L: [E, L2]]
 GO	[R B R: [S', R2]]
 GR	[Rw' U' E' L: [E, L2]]
 GT	[D L F: [L2, E]]
 GV	[L B' L', S]
-HG	[L: [U M U', L]]
+HG	[S': [R' E' R, D']]
 HN	[Rw2: [E2, Rw U Rw']]
 HO	[M U R: [E', R2]]
 HT	[R B' R', E]
