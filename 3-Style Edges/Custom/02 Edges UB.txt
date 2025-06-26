@@ -1,7 +1,7 @@
 #separator:tab
 #html:false
 BD	[M2 U': [M', U2]]
-BE  [Rw' F Rw, S]
+BE	[Rw' F Rw, S]
 BF	[U, R' E R]
 BG	[U': [L' E' L, U']]
 BH	[U, R E' R']
