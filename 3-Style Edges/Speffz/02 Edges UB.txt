@@ -165,7 +165,7 @@ LX	[U D2 R: [E, R2]]
 MD	[S', Lw F' Lw']
 ME	[M' U: [M, U2]]
 MF	[Lw' U: [M, U2]]
-MG	[R' B' R': [S', R2]]
+MG	[Rw' U L: [E', L2]]
 MH	[M' L U: [M, U2]]
 MJ	[R' Uw R': [E, R2]]
 MK	M (U M U M')2 M'
