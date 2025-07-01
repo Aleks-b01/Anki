@@ -1,7 +1,7 @@
 #separator:tab
 #html:false
 AB	[R' B' R: [R D R', U']]
-AD	[R' D' R U2: [R' D R, U]]
+AD	[R' D R U': [U', R' D' R]]
 AF	[Fw: [U2, R' D' R]]
 AG	[R' D R, U2]
 AH	[U': [R D' R', U2]]
@@ -36,7 +36,7 @@ BU	[R F': [R' U' R, D]]
 BV	[R' D R U' R D' R', U]
 BW	[U', R D' R' U R' D R]
 BX	[R' B: [D', R U R']]
-DA	[R' D' R U': [R' D R, U']]
+DA	[R' D R U': [R' D' R, U']]
 DB	[R F R': [U, R' D' R]]
 DE	[U' R: [R D R', U2]]
 DG	[R' D R, U']
